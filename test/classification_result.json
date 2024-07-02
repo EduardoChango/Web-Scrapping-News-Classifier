@@ -1,0 +1,60 @@
+{
+    "Classification According Industry": {
+        "Tech Industry": [
+            "States of Guernsey hit by attempted cyberattack on emails",
+            "Cybersecurity Incident Disrupts Saratoga Springs' IT System",
+            "San Diego healthcare provider's computer systems down 2 months after 'suspicious activities'",
+            "Canada's Federated Co-op suffers cyber incident, systems and website down",
+            "Coinstats Security Breach Hits More Than 1,500 User Wallets",
+            "Inside a violent gang\u2019s ruthless crypto-stealing home invasion spree",
+            "HubSpot says it\u2019s investigating customer account hacks",
+            "The nation's oldest nonprofit newsroom is suing OpenAI and Microsoft",
+            "UK's Shoe Zone Calls In Third Party To Investigate Cyber Incident",
+            "Cyberattack hits one of Iceland's largest media outlets",
+            "Thousands of websites told to ditch Polyfill service after Chinese hackers hijack it to serve malware",
+            "Hacking Mastermind Accused of Scamming Again After FBI Takedown",
+            "Microsoft informs customers that Russian hackers spied on emails",
+            "OpenAI will block people in China from using its services",
+            "Data breach exposes info for 64,000 Neiman Marcus shoppers",
+            "IRS Apologizes to Billionaire Ken Griffin for Leak of Tax Records"
+        ],
+        "Healthcare": [
+            "Largest Croatian hospital under cyberattack",
+            "San Diego healthcare provider's computer systems down 2 months after 'suspicious activities'",
+            "Critical South African healthcare services hacked",
+            "Central Pennsylvania health system announces patient data breach"
+        ],
+        "Financial Services": [
+            "Coinstats Security Breach Hits More Than 1,500 User Wallets",
+            "Inside a violent gang\u2019s ruthless crypto-stealing home invasion spree",
+            "Critical South African healthcare services hacked",
+            "FBI probe leads to arrest in Spain of alleged BetMGM hacker"
+        ],
+        "Government": [
+            "States of Guernsey hit by attempted cyberattack on emails",
+            "Cyberattack hits Franklin County, Wash., system offline",
+            "Federal government\u2019s lead cybersecurity agency reveals it was hacked"
+        ]
+    },
+    "Classification according to topics": {
+        "Data Breaches": [
+            "San Diego healthcare provider's computer systems down 2 months after 'suspicious activities'",
+            "Canada's Federated Co-op suffers cyber incident, systems and website down",
+            "Coinstats Security Breach Hits More Than 1,500 User Wallets",
+            "Cyberattack hits one of Iceland's largest media outlets",
+            "Data breach exposes info for 64,000 Neiman Marcus shoppers",
+            "Central Pennsylvania health system announces patient data breach"
+        ],
+        "Artificial Intelligence": [
+            "The nation's oldest nonprofit newsroom is suing OpenAI and Microsoft",
+            "IRS Apologizes to Billionaire Ken Griffin for Leak of Tax Records",
+            "Microsoft informs customers that Russian hackers spied on emails"
+        ],
+        "Information steal": [
+            "Microsoft informs customers that Russian hackers spied on emails",
+            "IRS Apologizes to Billionaire Ken Griffin for Leak of Tax Records",
+            "Federal government\u2019s lead cybersecurity agency reveals it was hacked"
+        ]
+    },
+    "Justification": "The classification was done based on the industry sector each news article belongs to, and the topics covered in the descriptions of the articles."
+}
